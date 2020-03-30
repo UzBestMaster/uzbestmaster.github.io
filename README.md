@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Hamdullayev Elbek Akmal o'g'li
 
-You can use the [editor on GitHub](https://github.com/UzBestMaster/uzbestmaster.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mening saytim: [www.e-soft.uz](http://e-soft.uz)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### O'rganuvchi dasturchi
 
-### Markdown
+### O'zi haqida:
+Men Hamdullayev Elbek Akmal o'g'li Samarqand viloyati, Kattaqo'rg'on tumani 23-umumiy o'rta ta'lim maktabining 9-sinfida o'qiyman. 12 yoshligimdan kompyuterga qiziqishim orta boshlagan. Avval kompyuterda ishlashni, so'ng Office dasturlarini o'rganib chiqdim. 13 yoshimda(2017-yil) birinchi windows dasturimni Delphida tuzdim. Birinchi dasturim Elektron soat dasturi edi. 14 yoshimda C++ dasturlash tilini o'rganishni boshladim va hozirda o'rganishni davom ettiryapman. Bu yillar orasida web-dasturlash, delphi, pascal, androidga dasturlashga ham qiziqib ko'rdim. Sizlarga ham dasturlashni o'rganishni tafsiya qilaman. Mening E-soft.Uz saytimda dasturlashni o'rganing! O'zim bilganlarimni sizga ham o'rgatishdan xursand bo'lar edim !!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Qiziqishi:
+Dasturlash
+Kompyuter
+Informatika
+Elektronika
+Informatsion texnologiyalar
 
-```markdown
-Syntax highlighted code block
+### Ta'lim:
+Samarqand viloyati, Kattaqo'rg'on tumani
+23-umumiy o'rta ta'lim maktabi 9-sinf o'quvchisi
 
-# Header 1
-## Header 2
-### Header 3
+### Bog'lanish
+Web-sayt: [e-soft.uz](https://www.e-soft.uz)
+Elektron pochta: [elbek-h@umail.uz](mailto:elbek-h@umail.uz)
 
-- Bulleted
-- List
+Telegram [kanal]: [@ESoftUz](https://t.me/ESoftUz)
 
-1. Numbered
-2. List
+Telegram [guruh]: [@ESoftUzGroup](https://t.me/ESoftUzGroup)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UzBestMaster/uzbestmaster.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Telegram [profil]: [@ESoftUzb](https://t.me/ESoftUzb)
