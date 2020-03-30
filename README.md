@@ -20,6 +20,7 @@ Samarqand viloyati, Kattaqo'rg'on tumani
 
 ### Bog'lanish
 Web-sayt: [e-soft.uz](https://www.e-soft.uz)
+
 Elektron pochta: [elbek-h@umail.uz](mailto:elbek-h@umail.uz)
 
 Telegram [kanal]: [@ESoftUz](https://t.me/ESoftUz)
